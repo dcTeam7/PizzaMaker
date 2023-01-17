@@ -64,6 +64,12 @@ section ul {
   position: relative;
 }
 
+#img-client {
+  padding-top: 12px;
+  width: 152px;
+  height: 200px;
+  }
+
 #imagens img {
   width: 200px;
   height: 200px;
