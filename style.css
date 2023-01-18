@@ -4,6 +4,7 @@
 
 
 
+
 ul {
   list-style: none;
   margin-block-end: 0;
@@ -98,6 +99,7 @@ section ul {
 }
 
 #img-client {
+  padding-top: 12px;
   width: 152px;
   height: 200px;
   }
