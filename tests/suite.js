@@ -1,2 +1,0 @@
-import './escolhas.specs.js';
-
