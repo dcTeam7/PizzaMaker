@@ -12,7 +12,8 @@
     "url": "git+https://github.com/dcTeam7/PizzaMaker.git"
   },
   "dependencies": {
-    "express": "4.18.2"
+    "express": "4.18.2",
+    "merge-images": "^2.0.0"
   },
   "devDependencies": {
     "nodemon": "2.0.22"
